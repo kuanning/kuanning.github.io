@@ -1,3 +1,4 @@
+<!--
 # KuanNing Chang — Personal Portfolio
 
 A bilingual (English / Traditional Chinese), responsive personal portfolio built with React, TypeScript, and Vite. It is designed for GitHub Pages and keeps most editable content in JSON files.
@@ -219,3 +220,5 @@ npm run dev
 5. 網址通常會是 `https://你的GitHub帳號.github.io/專案名稱/`。
 
 目前版本以設定檔管理內容，方便維護且不需要後端。若未來要在網站內登入、編輯作品和直接上傳圖片，可再加上 CMS；不要將密碼或私密 API key 寫進前端程式碼。
+
+-->
