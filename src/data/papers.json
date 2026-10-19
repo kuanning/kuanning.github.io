@@ -58,7 +58,7 @@
     "authors": { "en": "Yu-Hsiang Weng, Ping-Hsuan Han, Kuan-Ning Chang, Chi-Yu Lin, Chia-Hui Lin, Ho Yin Ng, Chien-Hsing Chou, Wen-Hsin Chiu", "zh": "" },
     "venue": { "en": "IEEE Transactions on Visualization and Computer Graphics", "zh": "" },
     "year": "2025",
-    "type": "Immersive Pavilion",
+    "type": "",
     "note": { "en": "", "zh": "" },
     "doi": "",
     "pdf": "https://dl.acm.org/doi/abs/10.1145/3641521.3664403",
