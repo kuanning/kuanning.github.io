@@ -43,10 +43,7 @@ function App() {
           {navItems.map(([id, label]) => (
             <a href={`#${id}`} key={id} onClick={closeMenu}>{label}</a>
           ))}
-          <button className="language-toggle" onClick={() => setLang(lang === "en" ? "zh" : "en")} aria-label="Switch language">
-            <Globe2 size={15} />
-            {lang === "en" ? "中文" : "EN"}
-          </button>
+          
         </nav>
       </header>
 
