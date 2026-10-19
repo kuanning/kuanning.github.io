@@ -1,19 +1,6 @@
 [
   {
-    "id": "paper-1",
-    "visible": true,
-    "title": { "en": "Elastic-move: Passive force feedback devices for virtual reality locomotion", "zh": "" },
-    "authors": { "en": "Da-Chung Yi, Kuan-Ning Chang, Yun-Hsuan Tai, I-Cheng Chen, Yi-Ping Hung", "zh": "" },
-    "venue": { "en": "2020 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)", "zh": "" },
-    "year": "2020",
-    "type": "",
-    "note": { "en": "", "zh": "" },
-    "doi": "10.1109/VRW50115.2020.00234",
-    "pdf": "https://ieeexplore.ieee.org/abstract/document/9090589",
-    "project": ""
-  },
-  {
-    "id": "paper-2",
+    "id": "paper1",
     "visible": true,
     "title": { "en": "Metapunch x: Combing multidisplay and exertion interaction for watching and playing e-sports in multiverse", "zh": "" },
     "authors": { "en": "Kuan-Ning Chang, Chia-Hui Lin, Yu-Hsiang Weng, Yu-Hin Chan, Po-Hsun Chen, Pei-Cih Zeng, Chien-Hsing Chou, Wen-Hsin Chiu, Ping-Hsuan Han", "zh": "" },
@@ -23,6 +10,97 @@
     "note": { "en": "", "zh": "" },
     "doi": "10.1145/3641521.3664403",
     "pdf": "https://dl.acm.org/doi/abs/10.1145/3641521.3664403",
+    "project": ""
+  }
+  ,{
+    "id": "paper2",
+    "visible": true,
+    "title": { "en": "Metapunch x: Combing multidisplay and exertion interaction for watching and playing e-sports in multiverse", "zh": "" },
+    "authors": { "en": "Kuan-Ning Chang, Chia-Hui Lin, Yu-Hsiang Weng, Yu-Hin Chan, Po-Hsun Chen, Pei-Cih Zeng, Chien-Hsing Chou, Wen-Hsin Chiu, Ping-Hsuan Han", "zh": "" },
+    "venue": { "en": "ACM SIGGRAPH 2024", "zh": "" },
+    "year": "2024",
+    "type": "Immersive Pavilion",
+    "note": { "en": "", "zh": "" },
+    "doi": "10.1145/3641521.3664403",
+    "pdf": "https://dl.acm.org/doi/abs/10.1145/3641521.3664403",
+    "project": ""
+  }
+  ,{
+    "id": "paper3",
+    "visible": true,
+    "title": { "en": "Metapunch x: Combing multidisplay and exertion interaction for watching and playing e-sports in multiverse", "zh": "" },
+    "authors": { "en": "Kuan-Ning Chang, Chia-Hui Lin, Yu-Hsiang Weng, Yu-Hin Chan, Po-Hsun Chen, Pei-Cih Zeng, Chien-Hsing Chou, Wen-Hsin Chiu, Ping-Hsuan Han", "zh": "" },
+    "venue": { "en": "ACM SIGGRAPH 2024", "zh": "" },
+    "year": "2024",
+    "type": "Immersive Pavilion",
+    "note": { "en": "", "zh": "" },
+    "doi": "10.1145/3641521.3664403",
+    "pdf": "https://dl.acm.org/doi/abs/10.1145/3641521.3664403",
+    "project": ""
+  }
+  ,{
+    "id": "paper4",
+    "visible": true,
+    "title": { "en": "Metapunch x: Combing multidisplay and exertion interaction for watching and playing e-sports in multiverse", "zh": "" },
+    "authors": { "en": "Kuan-Ning Chang, Chia-Hui Lin, Yu-Hsiang Weng, Yu-Hin Chan, Po-Hsun Chen, Pei-Cih Zeng, Chien-Hsing Chou, Wen-Hsin Chiu, Ping-Hsuan Han", "zh": "" },
+    "venue": { "en": "ACM SIGGRAPH 2024", "zh": "" },
+    "year": "2024",
+    "type": "Immersive Pavilion",
+    "note": { "en": "", "zh": "" },
+    "doi": "10.1145/3641521.3664403",
+    "pdf": "https://dl.acm.org/doi/abs/10.1145/3641521.3664403",
+    "project": ""
+  }
+  ,{
+    "id": "paper5",
+    "visible": true,
+    "title": { "en": "Metapunch x: Combing multidisplay and exertion interaction for watching and playing e-sports in multiverse", "zh": "" },
+    "authors": { "en": "Kuan-Ning Chang, Chia-Hui Lin, Yu-Hsiang Weng, Yu-Hin Chan, Po-Hsun Chen, Pei-Cih Zeng, Chien-Hsing Chou, Wen-Hsin Chiu, Ping-Hsuan Han", "zh": "" },
+    "venue": { "en": "ACM SIGGRAPH 2024", "zh": "" },
+    "year": "2024",
+    "type": "Immersive Pavilion",
+    "note": { "en": "", "zh": "" },
+    "doi": "10.1145/3641521.3664403",
+    "pdf": "https://dl.acm.org/doi/abs/10.1145/3641521.3664403",
+    "project": ""
+  }
+  ,{
+    "id": "paper6",
+    "visible": true,
+    "title": { "en": "Metapunch x: Combing multidisplay and exertion interaction for watching and playing e-sports in multiverse", "zh": "" },
+    "authors": { "en": "Kuan-Ning Chang, Chia-Hui Lin, Yu-Hsiang Weng, Yu-Hin Chan, Po-Hsun Chen, Pei-Cih Zeng, Chien-Hsing Chou, Wen-Hsin Chiu, Ping-Hsuan Han", "zh": "" },
+    "venue": { "en": "ACM SIGGRAPH 2024", "zh": "" },
+    "year": "2024",
+    "type": "Immersive Pavilion",
+    "note": { "en": "", "zh": "" },
+    "doi": "10.1145/3641521.3664403",
+    "pdf": "https://dl.acm.org/doi/abs/10.1145/3641521.3664403",
+    "project": ""
+  }
+  ,{
+    "id": "paper7",
+    "visible": true,
+    "title": { "en": "Metapunch x: Combing multidisplay and exertion interaction for watching and playing e-sports in multiverse", "zh": "" },
+    "authors": { "en": "Kuan-Ning Chang, Chia-Hui Lin, Yu-Hsiang Weng, Yu-Hin Chan, Po-Hsun Chen, Pei-Cih Zeng, Chien-Hsing Chou, Wen-Hsin Chiu, Ping-Hsuan Han", "zh": "" },
+    "venue": { "en": "ACM SIGGRAPH 2024", "zh": "" },
+    "year": "2024",
+    "type": "Immersive Pavilion",
+    "note": { "en": "", "zh": "" },
+    "doi": "10.1145/3641521.3664403",
+    "pdf": "https://dl.acm.org/doi/abs/10.1145/3641521.3664403",
+    "project": ""
+  }
+  ,{
+    "id": "paper8",
+    "visible": true,
+    "title": { "en": "Elastic-move: Passive force feedback devices for virtual reality locomotion", "zh": "" },
+    "authors": { "en": "Da-Chung Yi, Kuan-Ning Chang, Yun-Hsuan Tai, I-Cheng Chen, Yi-Ping Hung", "zh": "" },
+    "venue": { "en": "2020 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)", "zh": "" },
+    "year": "2020",
+    "type": "",
+    "note": { "en": "", "zh": "" },
+    "doi": "10.1109/VRW50115.2020.00234",
+    "pdf": "https://ieeexplore.ieee.org/abstract/document/9090589",
     "project": ""
   }
 ]
