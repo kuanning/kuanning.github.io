@@ -2,9 +2,9 @@
   {
     "id": "education-1",
     "visible": true,
-    "period": { "en": "2023 - Current", "zh": "2023 - 目前" },
-    "title": { "en": "Ph.D. Candidate.", "zh": "博士候選人" },
-    "organization": { "en": "National Taipei University of Technology", "zh": "國立臺北科技大學" },
+    "period": { "en": "2023 - Current", "zh": "" },
+    "title": { "en": "Ph.D. Candidate in Design", "zh": "" },
+    "organization": { "en": "National Taipei University of Technology", "zh": "" },
     "description": {
       "en": "",
       "zh": ""
@@ -13,9 +13,17 @@
   {
     "id": "education-2",
     "visible": true,
-    "period": { "en": "2018 – 2020", "zh": "2018 – 2020" },
-    "title": { "en": "Master of Fine Arts", "zh": "藝術碩士" },
-    "organization": { "en": "Tainan National University of the Arts / Graduate Institute of Animation and Film Art.", "zh": "國立臺南藝術大學 / 動畫藝術與影像美學研究所" },
+    "period": { "en": "2018 – 2020", "zh": "" },
+    "title": { "en": "M.F.A. in Animation and Film Art", "zh": "" },
+    "organization": { "en": "Tainan National University of the Arts", "zh": "" },
+    "description": { "en": "", "zh": "" }
+  }
+   {
+    "id": "education-3",
+    "visible": true,
+    "period": { "en": "2014 – 2018", "zh": "" },
+    "title": { "en": "B.S. in Computer Science and Communication Engineering", "zh": "" },
+    "organization": { "en": "Providence University", "zh": "" },
     "description": { "en": "", "zh": "" }
   }
 ]
