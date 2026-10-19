@@ -17,8 +17,8 @@
     "title": { "en": "M.F.A. in Animation and Film Art", "zh": "" },
     "organization": { "en": "Tainan National University of the Arts", "zh": "" },
     "description": { "en": "", "zh": "" }
-  }
-   {
+  },
+  {
     "id": "education-3",
     "visible": true,
     "period": { "en": "2014 – 2018", "zh": "" },
