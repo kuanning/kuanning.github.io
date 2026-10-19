@@ -1,40 +1,40 @@
 {
   "kicker": {
     "en": "RESEARCH · DESIGN · PROTOTYPING",
-    "zh": "研究・設計・原型實作"
+    "zh": ""
   },
   "headline": {
     "en": "Building thoughtful interactions between people and technology.",
-    "zh": "探索人與科技之間，更自然且有意義的互動。"
+    "zh": ""
   },
   "intro": {
     "en": "I'm KuanNing Chang. I explore interactive systems, extended reality (XR), and physical-digital experiences through research and hands-on prototyping.",
-    "zh": "我是張冠寧，關注互動系統、延展實境（XR）與虛實整合體驗，並透過研究與實作探索新的互動可能。"
+    "zh": ""
   },
   "focus": {
     "en": "XR interaction, tangible interfaces, tabletop robotics, and prototyping interactive experiences.",
-    "zh": "延展實境互動、實體介面、桌上型機器人，以及互動體驗原型設計。"
+    "zh": ""
   },
   "location": {
     "en": "Taiwan",
-    "zh": "台灣"
+    "zh": ""
   },
   "affiliation": {
     "en": "Research & Interactive Systems",
-    "zh": "研究與互動系統"
+    "zh": ""
   },
   "sideNote": {
     "en": "Curiosity becomes tangible through making.",
-    "zh": "讓好奇心透過實作成為具體體驗。"
+    "zh": ""
   },
   "portrait": "/images/profile-placeholder.svg",
   "portraitAlt": {
     "en": "Abstract placeholder for a profile portrait",
-    "zh": "個人照片預留位置"
+    "zh": ""
   },
   "portraitCaption": {
     "en": "Research · Interaction · Making",
-    "zh": "研究・互動・實作"
+    "zh": ""
   },
   "email": "",
   "github": "",
