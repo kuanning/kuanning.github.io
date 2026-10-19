@@ -1,0 +1,25 @@
+{
+  "name": "KuanNing Chang",
+  "labels": {
+    "projects": { "en": "Projects", "zh": "研究與專案" },
+    "papers": { "en": "Publications", "zh": "論文發表" },
+    "education": { "en": "Education", "zh": "學歷與經歷" },
+    "gallery": { "en": "Gallery", "zh": "影像紀錄" },
+    "explore": { "en": "Explore my work", "zh": "探索我的作品" },
+    "contact": { "en": "Get in touch", "zh": "聯絡我" },
+    "currentFocus": { "en": "CURRENT FOCUS", "zh": "目前研究方向" },
+    "projectsSubtitle": { "en": "Selected prototypes, systems, and explorations.", "zh": "精選原型、系統實作與研究探索。" },
+    "papersSubtitle": { "en": "Research outputs and academic contributions.", "zh": "研究成果與學術發表紀錄。" },
+    "educationSubtitle": { "en": "Academic background and research experience.", "zh": "學歷與研究經歷。" },
+    "gallerySubtitle": { "en": "Snapshots from prototypes, experiments, and events.", "zh": "原型製作、實驗過程與活動紀錄。" },
+    "viewProject": { "en": "View project", "zh": "查看專案" },
+    "paper": { "en": "Paper", "zh": "論文" },
+    "project": { "en": "Project", "zh": "專案" },
+    "emptyPapers": { "en": "Publication details will be added here.", "zh": "論文資訊將於此更新。" },
+    "contactEyebrow": { "en": "SAY HELLO", "zh": "保持聯繫" },
+    "contactTitle": { "en": "Have a project in mind?", "zh": "想交流研究或合作嗎？" },
+    "contactDescription": { "en": "I'm always happy to connect about research, prototypes, and new ideas.", "zh": "歡迎交流研究、原型實作與新的想法。" },
+    "footer": { "en": "Built with curiosity.", "zh": "保持好奇，持續探索。" },
+    "backToTop": { "en": "Back to top", "zh": "回到頂部" }
+  }
+}

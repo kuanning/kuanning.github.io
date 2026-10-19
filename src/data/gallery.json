@@ -1,0 +1,23 @@
+[
+  {
+    "id": "gallery-1",
+    "visible": true,
+    "image": "/images/gallery-placeholder.svg",
+    "caption": { "en": "Prototype documentation", "zh": "原型製作紀錄" },
+    "alt": { "en": "Gallery image placeholder", "zh": "作品集圖片預留位置" }
+  },
+  {
+    "id": "gallery-2",
+    "visible": true,
+    "image": "/images/gallery-placeholder.svg",
+    "caption": { "en": "Research in progress", "zh": "研究過程紀錄" },
+    "alt": { "en": "Research process placeholder", "zh": "研究過程圖片預留位置" }
+  },
+  {
+    "id": "gallery-3",
+    "visible": true,
+    "image": "/images/gallery-placeholder.svg",
+    "caption": { "en": "Experiments and demos", "zh": "實驗與展示" },
+    "alt": { "en": "Demo placeholder", "zh": "展示圖片預留位置" }
+  }
+]

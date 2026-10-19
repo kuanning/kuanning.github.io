@@ -1,0 +1,21 @@
+[
+  {
+    "id": "education-1",
+    "visible": true,
+    "period": { "en": "Current", "zh": "目前" },
+    "title": { "en": "Add your degree or current position", "zh": "請填入目前學位或職務" },
+    "organization": { "en": "University / Institution", "zh": "學校／研究機構" },
+    "description": {
+      "en": "Add a short description of your research interests, lab, or relevant work.",
+      "zh": "可簡短介紹研究方向、實驗室或相關經歷。"
+    }
+  },
+  {
+    "id": "education-2",
+    "visible": false,
+    "period": { "en": "20XX – 20XX", "zh": "20XX – 20XX" },
+    "title": { "en": "Previous degree or experience", "zh": "過往學位或經歷" },
+    "organization": { "en": "University / Institution", "zh": "學校／研究機構" },
+    "description": { "en": "", "zh": "" }
+  }
+]

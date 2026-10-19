@@ -1,0 +1,15 @@
+[
+  {
+    "id": "paper-1",
+    "visible": false,
+    "title": { "en": "Your publication title", "zh": "論文標題" },
+    "authors": { "en": "Author Name, Co-author Name", "zh": "作者姓名、共同作者姓名" },
+    "venue": { "en": "Conference or Journal Name", "zh": "研討會或期刊名稱" },
+    "year": "2026",
+    "type": "Demo",
+    "note": { "en": "Optional short note about the contribution.", "zh": "可選填：簡短說明研究貢獻。" },
+    "doi": "",
+    "pdf": "",
+    "project": ""
+  }
+]

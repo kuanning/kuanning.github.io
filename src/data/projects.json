@@ -1,0 +1,47 @@
+[
+  {
+    "id": "deskmate",
+    "visible": true,
+    "title": { "en": "DeskMate: A Tabletop Mobile Robot for XR Interaction", "zh": "DeskMate：用於 XR 互動的桌上型移動機器人" },
+    "category": "XR INTERACTION",
+    "year": "2026",
+    "description": {
+      "en": "A tabletop mobile robot concept that integrates an existing XR controller, giving an otherwise idle controller an active physical role in XR experiences.",
+      "zh": "整合既有 XR 控制器的桌上型移動機器人，讓原本閒置的控制器能在 XR 體驗中扮演主動的實體角色。"
+    },
+    "image": "/images/deskmate-placeholder.svg",
+    "imageAlt": { "en": "DeskMate project image placeholder", "zh": "DeskMate 專案圖片預留位置" },
+    "tags": ["XR", "Robotics", "Arduino", "Physical Interaction"],
+    "links": { "project": "", "github": "", "paper": "" }
+  },
+  {
+    "id": "xr-interaction",
+    "visible": true,
+    "title": { "en": "XR Interaction Experiments", "zh": "XR 互動實驗" },
+    "category": "PROTOTYPING",
+    "year": "2026",
+    "description": {
+      "en": "Exploring how physical objects, movement, and tangible feedback can extend interaction in immersive environments.",
+      "zh": "探索實體物件、移動與具體回饋如何延伸沉浸式環境中的互動方式。"
+    },
+    "image": "/images/project-placeholder.svg",
+    "imageAlt": { "en": "XR experiment placeholder", "zh": "XR 實驗圖片預留位置" },
+    "tags": ["XR", "Interaction Design", "Prototype"],
+    "links": { "project": "", "github": "", "paper": "" }
+  },
+  {
+    "id": "tangible-systems",
+    "visible": true,
+    "title": { "en": "Tangible Interactive Systems", "zh": "實體互動系統探索" },
+    "category": "INTERACTIVE SYSTEMS",
+    "year": "ONGOING",
+    "description": {
+      "en": "A collection of experiments connecting digital experiences with physical artifacts and responsive systems.",
+      "zh": "一系列結合數位體驗、實體物件與回應式系統的探索與實驗。"
+    },
+    "image": "/images/project-placeholder.svg",
+    "imageAlt": { "en": "Tangible systems placeholder", "zh": "實體互動系統圖片預留位置" },
+    "tags": ["Tangible UI", "HCI", "Prototyping"],
+    "links": { "project": "", "github": "", "paper": "" }
+  }
+]

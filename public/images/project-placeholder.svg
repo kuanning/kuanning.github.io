@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800">
+  <rect width="1000" height="800" fill="#e7e9e0"/>
+  <circle cx="500" cy="350" r="180" fill="#d1d8c8"/>
+  <circle cx="500" cy="350" r="125" fill="none" stroke="#87947b" stroke-width="2"/>
+  <path d="M330 350h340M500 180v340M380 230l240 240M620 230L380 470" stroke="#a5b19a" stroke-width="2"/>
+  <circle cx="500" cy="350" r="32" fill="#87947b"/>
+  <text x="500" y="640" text-anchor="middle" font-family="monospace" font-size="22" fill="#68725e" letter-spacing="5">PROJECT IMAGE</text>
+  <text x="500" y="680" text-anchor="middle" font-family="monospace" font-size="13" fill="#737c6c" letter-spacing="3">REPLACE THIS PLACEHOLDER</text>
+</svg>

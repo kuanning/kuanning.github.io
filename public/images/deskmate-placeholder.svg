@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800">
+  <rect width="1000" height="800" fill="#e6e8df"/>
+  <path d="M0 560L1000 420V800H0Z" fill="#d5dacd"/>
+  <ellipse cx="520" cy="530" rx="260" ry="95" fill="#b9c2af"/>
+  <rect x="350" y="315" width="340" height="180" rx="18" fill="#f8f8f2" stroke="#899581" stroke-width="4"/>
+  <rect x="395" y="350" width="250" height="105" rx="8" fill="#dce2d4"/>
+  <circle cx="385" cy="505" r="40" fill="#596558"/><circle cx="655" cy="505" r="40" fill="#596558"/>
+  <circle cx="385" cy="505" r="17" fill="#c6cfbb"/><circle cx="655" cy="505" r="17" fill="#c6cfbb"/>
+  <path d="M470 315V250H570V315" fill="none" stroke="#899581" stroke-width="12"/>
+  <circle cx="520" cy="230" r="32" fill="#a5b197"/>
+  <text x="500" y="690" text-anchor="middle" font-family="monospace" font-size="26" fill="#596558" letter-spacing="8">DESKMATE</text>
+  <text x="500" y="730" text-anchor="middle" font-family="monospace" font-size="13" fill="#737c6c" letter-spacing="3">REPLACE WITH YOUR PROJECT IMAGE</text>
+</svg>
