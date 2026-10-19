@@ -43,7 +43,11 @@ function App() {
           {navItems.map(([id, label]) => (
             <a href={`#${id}`} key={id} onClick={closeMenu}>{label}</a>
           ))}
-          
+        {/*  <button className="language-toggle" onClick={() => setLang(lang === "en" ? "zh" : "en")} aria-label="Switch language">
+            <Globe2 size={15} />
+            {lang === "en" ? "中文" : "EN"}
+          </button>
+          */}
         </nav>
       </header>
 
@@ -147,7 +151,7 @@ function App() {
           </div>
         </section>
 
-        <section className="content-section section-wrap gallery-section" id="gallery">
+      {/*  <section className="content-section section-wrap gallery-section" id="gallery">
           <SectionHeading number="04" title={copy.gallery[lang]} subtitle={copy.gallerySubtitle[lang]} />
           <div className="gallery-grid">
             {visibleGallery.map((item) => (
@@ -158,6 +162,7 @@ function App() {
             ))}
           </div>
         </section>
+      */}
 
         <section className="contact-band">
           <div className="section-wrap contact-inner">
